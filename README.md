@@ -11,3 +11,8 @@
 [Midterms-Exam](https://github.com/Kairuu12/Mid-Terms-Exam-Data-Analytics/blob/main/Midterms%20Exam.ipynb)
 
 - Data Analytics for Chicago Crimes
+
+[Activity-3](https://github.com/Kairuu12/Act3.git)
+
+- Data Analytics for Dengue Cases
+
