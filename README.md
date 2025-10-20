@@ -16,3 +16,7 @@
 
 - Data Analytics for Dengue Cases
 
+[Assignment](https://github.com/Kairuu12/Assignment.git)
+
+- Assignment about Linear Regression
+
