@@ -1,24 +1,38 @@
-# ELEC303-----Data-Analytics
+ELEC303 — Data Analytics
+1. Activity 1
 
-[Acticity 1](https://github.com/Kairuu12/ITELEC303---Activity-1---DSantos/blob/main/Jupyter%20PC/Activity%201.ipynb)
+🔗 https://github.com/Kairuu12/ITELEC303---Activity-1---DSantos/blob/main/Jupyter%20PC/Activity%201.ipynb
 
-- Data Analytics for Palmer's Penguins Dataset
+Topic: Data Analytics using the Palmer’s Penguins Dataset
 
-[Activity-2](https://github.com/Kairuu12/Activity2/blob/main/Activity-2.ipynb)
+2. Activity 2
 
-- Data Analytics for UK Road Accident
+🔗 https://github.com/Kairuu12/Activity2/blob/main/Activity-2.ipynb
 
-[Midterms-Exam](https://github.com/Kairuu12/Mid-Terms-Exam-Data-Analytics/blob/main/Midterms%20Exam.ipynb)
+Topic: Data Analytics for UK Road Accidents
 
-- Data Analytics for Chicago Crimes
+3. Activity 3
 
-[Activity-3](https://github.com/Kairuu12/Act3.git)
+🔗 https://github.com/Kairuu12/Act3.git
 
-- Data Analytics for Dengue Cases
+Topic: Data Analytics for Dengue Cases
 
-[Assignment](https://github.com/Kairuu12/Assignment.git)
+4. Midterms Exam
 
-- Assignment about Linear Regression
+🔗 https://github.com/Kairuu12/Mid-Terms-Exam-Data-Analytics/blob/main/Midterms%20Exam.ipynb
 
-[Machine Learning](https://github.com/Kairuu12/MachineLearning.git)
-[Linear Regression](https://github.com/Kairuu12/Linear-Regression.git)
+Topic: Data Analytics for Chicago Crimes
+
+5. Assignment
+
+🔗 https://github.com/Kairuu12/Assignment.git
+
+Topic: Linear Regression Assignment
+
+6. Machine Learning Projects
+
+🔗 https://github.com/Kairuu12/MachineLearning.git
+
+🔗 https://github.com/Kairuu12/Linear-Regression.git
+
+Topic: Machine Learning and Linear Regression Practice
