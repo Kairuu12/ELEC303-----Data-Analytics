@@ -36,3 +36,9 @@ Topic: Linear Regression Assignment
 🔗 https://github.com/Kairuu12/Linear-Regression.git
 
 Topic: Machine Learning and Linear Regression Practice
+
+7. Power DB Movie Gross Ratings
+
+🔗 https://github.com/Kairuu12/Power-BI-Gross-Movie-Ratings.git
+
+Topic: Visualizations of Movie Gross Ratings CSV
