@@ -21,3 +21,4 @@
 - Assignment about Linear Regression
 
 [Machine Learning](https://github.com/Kairuu12/MachineLearning.git)
+[Linear Regression](https://github.com/Kairuu12/Linear-Regression.git)
