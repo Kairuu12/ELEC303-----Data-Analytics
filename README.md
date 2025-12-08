@@ -42,3 +42,7 @@ Topic: Machine Learning and Linear Regression Practice
 🔗 https://github.com/Kairuu12/Power-BI-Gross-Movie-Ratings.git
 
 Topic: Visualizations of Movie Gross Ratings CSV
+
+8. 10 Insight Project
+
+🔗 https://github.com/Kairuu12/project.git
